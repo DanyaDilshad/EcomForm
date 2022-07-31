@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+html{
+	
+	margin: 30px;
+	height: 100%;
+	
+}
+
+body{
+	margin-top: 50px;
+	padding: 50px;
+	
+}
+
+.center {
+  padding: 70px 0;
+  text-align: center;
+}
+
+.myForm {
+  min-width: 500px;
+  position: absolute;
+  text-align: left;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+div{
+	
+	padding: 10px;
+}
